@@ -2,7 +2,7 @@
 
 <img src="front.jpg" width=300>
 
-#The book is available on Google Play
+# The book is available on Google Play
 
 Linux System Programming: The Definitive Guide is a comprehensive, structured guide to understanding how software truly interacts with the Linux operating system at a low level.
 Linux powers everything from embedded devices and cloud infrastructure to high-performance servers and developer platforms. Beneath modern abstractions such as containers, frameworks, and runtime environments lies a rich and powerful set of system interfaces-interfaces that define how applications are executed, managed, secured, and connected.
@@ -12,7 +12,7 @@ Rather than treating system calls as isolated APIs, the book emphasizes how Linu
 Advanced topics such as namespaces, capabilities, seccomp, io_uring, dynamic linking, and terminal control are also covered in depth, making this a long-term reference for both learning and professional development.
 Throughout the book, emphasis is placed on correctness, system-level insight, debugging techniques, and real-world usage patterns drawn from production Linux environments.
 
-#What You Will Learn
+# What You Will Learn
 1. File I/O and Storage Systems
     - Low-level file operations (open, read, write, lseek) 
     - Standard I/O and buffering models (stdio vs syscalls) 
