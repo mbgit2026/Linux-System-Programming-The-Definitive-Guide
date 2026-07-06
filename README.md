@@ -1,6 +1,11 @@
 # Linux-System-Programming-The-Definitive-Guide
 
-Linux System Programming: The Definitive Guide is a comprehensive, structured guide to understanding how software truly interacts with the Linux operating system at a low level.
+# The book is available on Google Play
+https://play.google.com/store/books/details?id=cZzxEQAAQBAJ
+
+<img src="front.jpg" width=400>
+
+# Linux System Programming: The Definitive Guide is a comprehensive, structured guide to understand how software truly interacts with the Linux operating system at a low level.
 Linux powers everything from embedded devices and cloud infrastructure to high-performance servers and developer platforms. Beneath modern abstractions such as containers, frameworks, and runtime environments lies a rich and powerful set of system interfaces-interfaces that define how applications are executed, managed, secured, and connected.
 This book brings together, in a single coherent volume, the core principles and system interfaces that are often scattered across documentation, man pages, and multiple specialized texts. It is designed to help developers build a deep, practical understanding of Linux from the perspective of the operating system itself.
 Starting with fundamental file I/O and filesystem behavior, the book builds upward through process execution, memory management, concurrency, networking, and interprocess communication. Each topic is explained through both conceptual foundations and practical, runnable examples, helping readers form accurate mental models of how Linux behaves under real workloads.
@@ -8,7 +13,7 @@ Rather than treating system calls as isolated APIs, the book emphasizes how Linu
 Advanced topics such as namespaces, capabilities, seccomp, io_uring, dynamic linking, and terminal control are also covered in depth, making this a long-term reference for both learning and professional development.
 Throughout the book, emphasis is placed on correctness, system-level insight, debugging techniques, and real-world usage patterns drawn from production Linux environments.
 
-What You Will Learn
+# What You Will Learn
 1. File I/O and Storage Systems
     - Low-level file operations (open, read, write, lseek) 
     - Standard I/O and buffering models (stdio vs syscalls) 
@@ -75,6 +80,6 @@ What You Will Learn
     - Process credentials and access control models 
     - Secure computing and sandboxing techniques 
 
-This book is designed for C programmers, system developers, backend engineers, DevOps practitioners, and advanced students who want to move beyond high-level abstractions and understand Linux at the system interface level.
+# This book is designed for C programmers, system developers, backend engineers, DevOps practitioners, and advanced students who want to move beyond high-level abstractions and understand Linux at the system interface level.
 Whether you are building high-performance servers, infrastructure tools, security-sensitive applications, or containerized systems, this guide provides a unified and practical foundation for writing robust and efficient Linux software.
 A complete guide to Linux system programming.
