@@ -1,9 +1,9 @@
 # Linux-System-Programming-The-Definitive-Guide
 
-<img src="front.jpg" width=300>
-
 # The book is available on Google Play
 https://play.google.com/store/books/details?id=cZzxEQAAQBAJ
+
+<img src="front.jpg" width=400>
 
 # Linux System Programming: The Definitive Guide is a comprehensive, structured guide to understand how software truly interacts with the Linux operating system at a low level.
 Linux powers everything from embedded devices and cloud infrastructure to high-performance servers and developer platforms. Beneath modern abstractions such as containers, frameworks, and runtime environments lies a rich and powerful set of system interfaces-interfaces that define how applications are executed, managed, secured, and connected.
