@@ -3,6 +3,10 @@
 # The book is available on Google Play
 https://play.google.com/store/books/details?id=cZzxEQAAQBAJ
 
+# The book is also available as a six-volume set.
+https://play.google.com/store/books/details/Marco_Bruno_Linux_System_Programming?id=bvzgEQAAQBAJ
+
+
 <img src="front.jpg" width=400>
 
 # Linux System Programming: The Definitive Guide is a comprehensive, structured guide to understand how software truly interacts with the Linux operating system at a low level.
