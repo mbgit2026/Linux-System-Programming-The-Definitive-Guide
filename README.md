@@ -84,6 +84,6 @@ Throughout the book, emphasis is placed on correctness, system-level insight, de
     - Process credentials and access control models 
     - Secure computing and sandboxing techniques 
 
-# This book is designed for C programmers, system developers, backend engineers, DevOps practitioners, and advanced students who want to move beyond high-level abstractions and understand Linux at the system interface level.
+This book is designed for C programmers, system developers, backend engineers, DevOps practitioners, and advanced students who want to move beyond high-level abstractions and understand Linux at the system interface level.
 Whether you are building high-performance servers, infrastructure tools, security-sensitive applications, or containerized systems, this guide provides a unified and practical foundation for writing robust and efficient Linux software.
 A complete guide to Linux system programming.
