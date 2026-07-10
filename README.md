@@ -3,9 +3,9 @@
 # The book is available on Google Play
 https://play.google.com/store/books/details?id=cZzxEQAAQBAJ
 
-# The book is also available as a six-volume set
-https://play.google.com/store/books/details/Marco_Bruno_Linux_System_Programming?id=bvzgEQAAQBAJ
+# The book is also available as a six-volume set: https://www.linuxsystemprogramming.online
 
+https://play.google.com/store/books/details/Marco_Bruno_Linux_System_Programming?id=bvzgEQAAQBAJ
 
 <img src="front.jpg" width=400>
 
