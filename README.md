@@ -9,13 +9,8 @@ Rather than treating system calls as isolated APIs, the book emphasizes how Linu
 Advanced topics such as namespaces, capabilities, seccomp, io_uring, dynamic linking, and terminal control are also covered in depth, making this a long-term reference for both learning and professional development.
 Throughout the book, emphasis is placed on correctness, system-level insight, debugging techniques, and real-world usage patterns drawn from production Linux environments.
 
-# The book is available on Google Play
-https://play.google.com/store/books/details?id=cZzxEQAAQBAJ
-
 # The book is also available as a six-volume set: 
 https://www.linuxsystemprogramming.online
-
-https://play.google.com/store/books/details/Marco_Bruno_Linux_System_Programming?id=bvzgEQAAQBAJ
 
 # What You Will Learn
 1. File I/O and Storage Systems
